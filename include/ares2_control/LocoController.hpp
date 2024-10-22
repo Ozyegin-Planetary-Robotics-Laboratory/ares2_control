@@ -39,7 +39,7 @@ namespace ares2_control
         this->declare_parameter("locomotion/control_method", std::string("velocity"));
         this->declare_parameter("locomotion/control_degree", 1);
         this->declare_parameter("general/loop_rate", 100.0);
-        this->declare_parameter("general/can_interface", std::string("vcan0"));
+        this->declare_parameter("general/can_interface", std::string("can0"));
         this->declare_parameter("locomotion/wheel_ids", std::vector<int>{1, 2, 3, 4});
 
 
