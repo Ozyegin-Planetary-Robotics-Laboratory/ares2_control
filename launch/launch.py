@@ -29,7 +29,7 @@ def generate_launch_description():
                 'occupancy_map.resolution': 5,
                 'occupancy_map.length': 50,
                 'general.loop_rate': 20,
-                'general.can_interface': 'vcan0'
+                'general.can_interface': 'can0'
             }]  # Parameters are passed inline here
         )
     ])
