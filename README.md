@@ -36,7 +36,7 @@ You will need the **ares2_msgs** package, which defines the necessary custom mes
 1. Clone the **ares2_msgs** package into your workspace:
    ```bash
    cd ~/ros2_ws/src
-   git clone https://github.com/yourusername/ares2_msgs.git
+   git clone https://github.com/Ozyegin-Planetary-Robotics-Laboratory/ares2_msgs.git
    ```
 
 2. Build the package using colcon:
@@ -49,7 +49,7 @@ You will need the **ares2_msgs** package, which defines the necessary custom mes
 1. Clone the **Ares2 Control System** into your ROS 2 workspace:
    ```bash
    cd ~/ros2_ws/src
-   git clone https://github.com/yourusername/ares2_control.git
+   git clone https://github.com/Ozyegin-Planetary-Robotics-Laboratory/ares2_control.git
    ```
 
 2. Build the workspace:
