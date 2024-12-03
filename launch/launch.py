@@ -25,7 +25,7 @@ def generate_launch_description():
                 'locomotion.motor_temp_lim': 70,
                 'locomotion.control_degree': 30,
                 'locomotion.control_method': 'velocity',
-                'locomotion.wheel_ids': [3, 4, 2, 1],
+                'locomotion.wheel_ids': [3, 5, 2, 1],
                 'occupancy_map.resolution': 5,
                 'occupancy_map.length': 50,
                 'general.loop_rate': 20,
